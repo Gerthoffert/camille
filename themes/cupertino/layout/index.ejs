@@ -11,7 +11,7 @@
     <% } %>
 
     <div class="post-list">
-        <% page.posts.each(function (post) { %>
+        <% page.posts.sort('date', -1).each(function (post) { %>
         <article class="post-list-item">
             <a href="<%- url_for(post.path) %>">
                 <% if (post.cover_image) { %>
