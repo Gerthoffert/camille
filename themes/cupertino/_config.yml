@@ -40,7 +40,7 @@ rainbow_banner_colors:
   - '#004cff'
   - '#760188'
 # choose from [auto, always]
-rainbow_banner_shown: auto
+rainbow_banner_shown: always
 # Pride Month by default
 rainbow_banner_month: 6
 
