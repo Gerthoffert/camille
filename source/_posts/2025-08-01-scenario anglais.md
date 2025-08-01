@@ -1,6 +1,6 @@
 ---
 title: Le scenario de mon futur jeu - Francais
-date: 2025/2/02 12:42:00
+date: 2025/08/01 12:42:00
 cover_image: /images/2025-08-01/visuel-histoire.png
 cover_image_alt: Visuel pour le scenario
 ---
